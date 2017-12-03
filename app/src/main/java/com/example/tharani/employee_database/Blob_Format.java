@@ -1,5 +1,5 @@
 package com.example.tharani.employee_database;
-
+//import is libraries imported for writing the code
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 
